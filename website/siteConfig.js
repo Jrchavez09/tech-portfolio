@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Jose Chavez', // Title for your website.
-    tagline: 'High motivation discipline aspiring software engineer',
+    tagline: 'High motivation, discipline, aspiring software engineer',
     profilePhoto: 'img/profile.png',
     url: 'https://Jrchavez09.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
