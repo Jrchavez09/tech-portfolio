@@ -1,5 +1,5 @@
 ---
-id: 0001
+id: project
 title: Projects
 ---
 
